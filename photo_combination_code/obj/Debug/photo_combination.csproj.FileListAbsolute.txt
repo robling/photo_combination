@@ -1,0 +1,60 @@
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\photo_combination\photo_combination\bin\Debug\photo_combination.exe
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\photo_combination\photo_combination\bin\Debug\photo_combination.pdb
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\photo_combination\photo_combination\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\photo_combination\photo_combination\obj\Debug\photo_combination.Properties.Resources.resources
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\photo_combination\photo_combination\obj\Debug\photo_combination.csproj.GenerateResource.Cache
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\photo_combination\photo_combination\obj\Debug\photo_combination.exe
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\photo_combination\photo_combination\obj\Debug\photo_combination.pdb
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\photo_combination\photo_combination\obj\Debug\photo_combination.Form1.resources
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\photo_combination\photo_combination\obj\Debug\photo_combination.Form2.resources
+C:\Users\Administrator\Desktop\photo_combination\photo_combination\obj\Debug\photo_combination.exe
+C:\Users\Administrator\Desktop\photo_combination\photo_combination\obj\Debug\photo_combination.pdb
+C:\Users\Administrator\Desktop\photo_combination\photo_combination\bin\Debug\photo_combination.exe
+C:\Users\Administrator\Desktop\photo_combination\photo_combination\bin\Debug\photo_combination.pdb
+C:\Users\Administrator\Desktop\photo_combination\photo_combination\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\photo_combination\photo_combination\obj\Debug\photo_combination.Form1.resources
+C:\Users\Administrator\Desktop\photo_combination\photo_combination\obj\Debug\photo_combination.Form2.resources
+C:\Users\Administrator\Desktop\photo_combination\photo_combination\obj\Debug\photo_combination.Properties.Resources.resources
+C:\Users\Administrator\Desktop\photo_combination\photo_combination\obj\Debug\photo_combination.csproj.GenerateResource.Cache
+I:\08091628\photo_combination\obj\Debug\photo_combination.exe
+I:\08091628\photo_combination\obj\Debug\photo_combination.pdb
+I:\08091628\photo_combination\bin\Debug\photo_combination.exe
+I:\08091628\photo_combination\bin\Debug\photo_combination.pdb
+I:\08091628\photo_combination\obj\Debug\ResolveAssemblyReference.cache
+I:\08091628\photo_combination\obj\Debug\photo_combination.Form1.resources
+I:\08091628\photo_combination\obj\Debug\photo_combination.Form2.resources
+I:\08091628\photo_combination\obj\Debug\photo_combination.Properties.Resources.resources
+I:\08091628\photo_combination\obj\Debug\photo_combination.csproj.GenerateResource.Cache
+F:\08091810\photo_combination\obj\Debug\photo_combination.exe
+F:\08091810\photo_combination\obj\Debug\photo_combination.pdb
+F:\08091810\photo_combination\obj\Debug\ResolveAssemblyReference.cache
+F:\08091810\photo_combination\obj\Debug\photo_combination.Form1.resources
+F:\08091810\photo_combination\obj\Debug\photo_combination.Form2.resources
+F:\08091810\photo_combination\obj\Debug\photo_combination.Properties.Resources.resources
+F:\08091810\photo_combination\obj\Debug\photo_combination.csproj.GenerateResource.Cache
+F:\08091810\photo_combination\bin\Debug\photo_combination.exe
+F:\08091810\photo_combination\bin\Debug\photo_combination.pdb
+F:\08111203\photo_combination\obj\Debug\photo_combination.exe
+F:\08111203\photo_combination\obj\Debug\photo_combination.pdb
+F:\08111203\photo_combination\bin\Debug\photo_combination.exe
+F:\08111203\photo_combination\bin\Debug\photo_combination.pdb
+F:\08111203\photo_combination\obj\Debug\ResolveAssemblyReference.cache
+F:\08111203\photo_combination\obj\Debug\photo_combination.Form1.resources
+F:\08111203\photo_combination\obj\Debug\photo_combination.Form2.resources
+F:\08111203\photo_combination\obj\Debug\photo_combination.Properties.Resources.resources
+F:\08111203\photo_combination\obj\Debug\photo_combination.csproj.GenerateResource.Cache
+I:\photo_combination\obj\Debug\photo_combination.exe
+I:\photo_combination\obj\Debug\photo_combination.pdb
+C:\Documents and Settings\DELL\桌面\photo_combination\obj\Debug\photo_combination.exe
+C:\Documents and Settings\DELL\桌面\photo_combination\obj\Debug\photo_combination.pdb
+C:\Documents and Settings\DELL\桌面\photo_combination\bin\Debug\photo_combination.exe
+C:\Documents and Settings\DELL\桌面\photo_combination\bin\Debug\photo_combination.pdb
+C:\Documents and Settings\DELL\桌面\photo_combination\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DELL\桌面\photo_combination\obj\Debug\photo_combination.Form1.resources
+C:\Documents and Settings\DELL\桌面\photo_combination\obj\Debug\photo_combination.Form2.resources
+C:\Documents and Settings\DELL\桌面\photo_combination\obj\Debug\photo_combination.Properties.Resources.resources
+C:\Documents and Settings\DELL\桌面\photo_combination\obj\Debug\photo_combination.csproj.GenerateResource.Cache
+G:\photo_combination\obj\Debug\photo_combination.exe
+G:\photo_combination\obj\Debug\photo_combination.pdb
+D:\Working datas\photo_combination\obj\Debug\photo_combination.exe
+D:\Working datas\photo_combination\obj\Debug\photo_combination.pdb
